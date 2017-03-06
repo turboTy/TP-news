@@ -1,0 +1,12 @@
+[ 2016-11-12T21:28:14+08:00 ] ::1 /html/think/11-12/11-12.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:11-12
+
+[ 2016-11-12T21:30:17+08:00 ] ::1 /html/think/11-12/11-12.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:11-12
+
